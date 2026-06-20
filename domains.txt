@@ -1,0 +1,34 @@
+# Replace with your actual pre-assigned hunt targets.
+# Generic starter list across the 4 categories on the slide.
+
+# --- Banks ---
+https://www.standardbank.co.za
+https://www.absa.co.za
+https://www.nedbank.co.za
+https://www.capitecbank.co.za
+https://www.fnb.co.za
+https://www.africanbank.co.za
+https://www.tymebank.co.za
+https://www.bankzero.co.za
+
+# --- Government ---
+https://www.gov.za
+https://www.sars.gov.za
+https://www.dha.gov.za
+https://www.health.gov.za
+https://www.cogta.gov.za
+https://www.tourism.gov.za
+
+# --- Commerce ---
+https://www.takealot.com
+https://www.woolworths.co.za
+https://www.pnp.co.za
+https://www.makro.co.za
+https://www.checkers.co.za
+
+# --- Telecoms ---
+https://www.vodacom.co.za
+https://www.mtn.co.za
+https://www.telkom.co.za
+https://www.cellc.co.za
+https://www.rain.co.za
