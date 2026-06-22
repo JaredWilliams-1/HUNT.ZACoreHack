@@ -20,7 +20,6 @@ https://www.cogta.gov.za
 https://www.tourism.gov.za
 
 # --- Commerce ---
-https://www.takealot.com
 https://www.woolworths.co.za
 https://www.pnp.co.za
 https://www.makro.co.za
